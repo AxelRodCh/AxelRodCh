@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Systems Engineering graduate** from ESCOM - IPN, with hands-on experience developing fullstack web applications using modern technologies such as **Java (Spring Boot), React, JavaScript, and MongoDB**. Also passionate about Java Backend Applications.
+I'm a **Computer Systems Engineering graduate** from ESCOM - IPN, with hands-on experience developing fullstack web applications using modern technologies such as **Java (Spring Boot), React, JavaScript, and MongoDB**. Also passionate about **Java Backend Applications**.
 
 I am always eager to learn, explore new tools, and solve real-world problems through technology. My goal is to contribute to meaningful projects while continuously growing as a developer.
 

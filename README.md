@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Axel Rodríguez</h1>
-<h3 align="center">Fullstack Developer | Java Spring Boot | React | Passionate about building scalable web solutions</h3>
+<h3 align="center">Fullstack Developer | Java Spring Boot | React | Passionate about building scalable web solutions and java applications</h3>
 
 ---
 
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Systems Engineering graduate** from ESCOM - IPN, with hands-on experience developing fullstack web applications using modern technologies such as **Java (Spring Boot), React, JavaScript, and MongoDB**.
+I'm a **Computer Systems Engineering graduate** from ESCOM - IPN, with hands-on experience developing fullstack web applications using modern technologies such as **Java (Spring Boot), React, JavaScript, and MongoDB**. Also passionate about Java Backend Applications.
 
 I am always eager to learn, explore new tools, and solve real-world problems through technology. My goal is to contribute to meaningful projects while continuously growing as a developer.
 

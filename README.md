@@ -13,9 +13,22 @@ I am always eager to learn, explore new tools, and solve real-world problems thr
 
 ---
 
-### 🛠 Projects
+
+### 🛠 Personal Projects
 
 [DITCOM website] || React, TailwindCSS, Java, Maven || https://ditcom.com.mx
+
+
+---
+
+
+### 🛠 Other Projects
+
+<li>[Notes Manager] || React + Axios + Bootstrap, Spring Boot + Spring Data JPA + H2 Database || https://github.com/AxelRodCh/GestorNotas</li>
+<li>[Track Manager] || React + Axios + Bootstrap, Spring Boot + Spring Data JPA + H2 Database + Maven || https://github.com/AxelRodCh/GestorTracks</li>
+<li>[Random Dog Image Generator API] || React + Dog CEO API || https://github.com/AxelRodCh/RandomDogGenAPI</li>
+<li>[Weather App API] || React + OpenWeatherMap API || https://github.com/AxelRodCh/RandomDogGenAPI</li>
+<li>[Random Quote Application API] || React, JWT, MongoDB, Spring Boot || https://github.com/AxelRodCh/Quote-app</li>
 
 
 ---

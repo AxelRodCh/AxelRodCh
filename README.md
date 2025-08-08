@@ -17,6 +17,7 @@ I am always eager to learn, explore new tools, and solve real-world problems thr
 ### 🛠 Personal Projects
 
 [DITCOM website] || React, TailwindCSS, Java, Maven || https://ditcom.com.mx
+[CARMAG website] || React + Vite + TailwindCSS, Node.js + Express.js || https://carmag.com.mx
 
 
 ---
